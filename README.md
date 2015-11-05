@@ -1,7 +1,8 @@
 octo wordlist
 =============
 
-A prepackaged version of SCOWL for people who just want to download a file.
+A prepackaged version of [SCOWL](http://wordlist.aspell.net/) for
+people who just want to download/AJAX a file
 
 Files
 -----
