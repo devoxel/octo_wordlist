@@ -3077,7 +3077,7 @@ departmental
 departments
 departure
 depend
-dependant
+dependent
 depended
 dependence
 dependent

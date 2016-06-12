@@ -40563,7 +40563,7 @@ prophecy
 prophecy's
 prophesied
 prophesies
-prophesy
+prophecy
 prophesy's
 prophesying
 prophet
